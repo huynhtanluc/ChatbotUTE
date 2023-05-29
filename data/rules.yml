@@ -466,3 +466,38 @@ rules:
   steps:
   - intent: cau_hoi_93
   - action: utter_cau_hoi_93
+
+- rule: rule_cau_hoi_94
+  steps:
+  - intent: cau_hoi_94
+  - action: utter_cau_hoi_94
+
+- rule: rule_cau_hoi_95
+  steps:
+  - intent: cau_hoi_95
+  - action: utter_cau_hoi_95
+
+- rule: rule_cau_hoi_96
+  steps:
+  - intent: cau_hoi_96
+  - action: utter_cau_hoi_96
+
+- rule: rule_cau_hoi_97
+  steps:
+  - intent: cau_hoi_97
+  - action: utter_cau_hoi_97
+
+- rule: rule_cau_hoi_98
+  steps:
+  - intent: cau_hoi_98
+  - action: utter_cau_hoi_98
+
+- rule: rule_cau_hoi_99
+  steps:
+  - intent: cau_hoi_99
+  - action: utter_cau_hoi_99
+
+- rule: rule_cau_hoi_100
+  steps:
+  - intent: cau_hoi_100
+  - action: utter_cau_hoi_100

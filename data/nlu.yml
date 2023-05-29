@@ -910,3 +910,51 @@ nlu:
     - Em có thể đăng ký xét tuyển theo phương thức xét kết quả thi Đánh giá năng lực ĐHQG Hồ Chí Minh trực tuyến hay không?
     - Nếu em không đăng ký xét tuyển theo phương thức xét kết quả thi Đánh giá năng lực ĐHQG Hồ Chí Minh trong thời gian quy định thì sao?
     - Làm thế nào để đăng ký xét tuyển theo phương thức xét kết quả thi Đánh giá năng lực ĐHQG Hồ Chí Minh?
+
+- intent: cau_hoi_94
+  examples: | 
+    - Em được biết năm 2023, Đại học Đà Nẵng có thêm phương thức xét tuyển mới, như vậy để xét tuyển vào ĐHĐN có những phương thức nào?
+    - Đại học Đà Nẵng có những phương thức xét tuyển nào hiện tại?
+    - Các phương thức xét tuyển?
+    - Các phương thức xét tuyển của Đại Học Đà Nẵng?
+
+- intent: cau_hoi_95
+  examples: | 
+    - Em muốn hỏi cách tính điểm ưu tiên năm nay có gì mới không ạ?
+    - Điểm ưu tiên được tính như thế nào trong quá trình xét tuyển?
+    - Có những tiêu chí nào được sử dụng để tính điểm ưu tiên?
+    - Các yếu tố nào được xem xét khi tính điểm ưu tiên?
+    - Có sự khác biệt về cách tính điểm ưu tiên giữa các ngành học không?
+    - Có những điều kiện đặc biệt nào để được hưởng điểm ưu tiên?
+    - Có những chính sách mới về điểm ưu tiên trong năm nay không?
+    - Điểm ưu tiên?
+
+- intent: cau_hoi_96
+  examples: | 
+    - Em muốn hỏi khi đăng ký xét tuyển vào ĐHĐN, em có được đăng ký cùng lúc nhiều phương thức xét tuyển hay không, nếu các phương thức xét tuyển đều có nguyện vọng được trúng tuyển thì em phải thực hiện đăng ký nguyện vọng như thế nào trên hệ thống của Bộ GDĐT để được công nhận trúng tuyển chính thức?
+    - Em có thể đăng ký cùng lúc nhiều phương thức xét tuyển vào Đại học Đà Nẵng không?
+
+- intent: cau_hoi_97
+  examples: | 
+    - Em muốn hỏi khi em đã trúng tuyển ở đợt xét tuyển sớm của trường, thì em chỉ cần chờ thông báo đi nhập học đúng không ạ?
+    - Sau khi đăng ký xét tuyển nguyện vọng, quá trình công nhận trúng tuyển chính thức diễn ra như thế nào?
+    - Sau khi nhận được thông báo nhập học, em cần thực hiện các bước và thủ tục gì để hoàn tất quá trình nhập học?
+    - Có yêu cầu hay tài liệu nào em cần chuẩn bị trước khi nhập học và cần chú ý những điểm gì quan trọng?
+
+- intent: cau_hoi_98
+  examples: | 
+    - Em có tham khảo thông tin được biết, khi nhập học vào trường thí sinh phải tham gia kiểm tra trình độ tiếng Anh đầu vào, việc này chỉ nhằm phân lớp học Tiếng Anh theo trình độ hay còn mang ý nghĩa tuyển sinh?
+    - Kiểm tra trình độ tiếng Anh đầu vào là một yêu cầu bắt buộc cho tất cả các thí sinh nhập học tại trường phải thực hiện?
+    - Mục đích chính của việc kiểm tra trình độ tiếng Anh là gì?
+    - Kết quả kiểm tra trình độ tiếng Anh đầu vào sẽ ảnh hưởng đến kết quả tuyển sinh vào trường không?
+    - Sau khi kiểm tra trình độ tiếng Anh, việc xếp lớp học Tiếng Anh theo trình độ sẽ được thực hiện như thế nào?
+    - Đối với những thí sinh có trình độ tiếng Anh thấp, liệu có cơ hội nâng cao trình độ Tiếng Anh trong quá trình học tại trường không?
+    - Trình độ tiếng Anh có liên quan đến việc tốt nghiệp không và được xem xét như thế nào trong quá trình học tại trường?
+
+- intent: cau_hoi_99
+  examples: | 
+    - ?
+
+- intent: cau_hoi_100
+  examples: | 
+    - ?

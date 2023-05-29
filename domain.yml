@@ -96,6 +96,13 @@ intents:
 - cau_hoi_91
 - cau_hoi_92
 - cau_hoi_93
+- cau_hoi_94
+- cau_hoi_95
+- cau_hoi_96
+- cau_hoi_97
+- cau_hoi_98
+- cau_hoi_99
+- cau_hoi_100
 
 
 responses:
@@ -352,6 +359,49 @@ responses:
   utter_cau_hoi_93:
     - text: " - Thời gian đăng ký: từ ngày 15/4/2023 đến hết ngày 31/5/2023;\n
               - Hình thức đăng ký: trực tuyến tại địa chỉ ts.udn.vn."
+
+  utter_cau_hoi_94:
+    - text: " - Năm 2023, Đại học Đà Nẵng áp dụng các phương thức tuyển sinh như sau:\n
+                1. Xét tuyển thẳng theo quy chế tuyển sinh của Bộ Giáo dục và Đào tạo;\n
+                2. Xét tuyển theo điểm thi THPT năm 2023;\n
+                3. Xét tuyển theo học bạ (kết quả học tập 3 năm THPT);\n
+                4. Tuyển sinh riêng theo đề án của các CSĐT;\n
+                5. Xét tuyển theo điểm thi ĐGNL, ĐG Tư duy;\n
+                + ĐHQG Tp HCM (ĐGNL)\n
+                + ĐHBK Hà Nội (ĐGTD)\n
+                + Điểm thi của khối các trường sư phạm (ĐGNL)"
+                
+
+  utter_cau_hoi_95:
+    - text: " - 1. Khung điểm ưu tiên theo đối tượng và khu vực\n
+                  - Nhóm đối tượng ưu tiên 1(gồm các đối tượng từ 01-04): được cộng 2 điểm.\n
+                  - Nhóm đối tượng ưu tiên 2(gồm các đối tượng từ 05-07): được cộng 1 điểm.\n
+                  - Khu vực 1: được cộng 0,75 điểm.\n
+                  - Khu vực 2 - NT: được cộng 0,5 điểm.\n
+                  - Khu vực 2: được cộng 0,25 điểm.\n
+                  - Khu vực 3: không cộng điểm.\n
+                2. Cách tính điểm ưu tiên\n
+                  Từ năm 2023, chính sách ưu tiên trong tuyển sinh có thay đổi như sau:\n
+                  - Ưu tiên khu vực: thí sinh chỉ được hưởng ưu tiên khu vực trong năm tốt nghiệp THPT và 1 năm kế tiếp.\n
+                  - Điểm ưu tiên theo khu vực và đối tượng giảm dần đối với các thí sinh đạt từ 22,5 điểm trở lên (quy về thang 30), áp dụng đối với tất cả các phương thức xét tuyển.\n
+                  + Nếu tổng điểm đạt được theo tổ hợp môn nhỏ hơn 22,5 (khi quy đổi về điểm theo thang 10 và tổng điểm 3 môn tối đa là 30) thì cộng điểm ưu tiên theo khu vực, đối tượng chính sách theo các mức như quy định.\n
+                  + Nếu tổng điểm đạt được theo tổ hợp môn từ 22,5 trở lên (khi quy đổi về điểm theo thang 10 và tổng điểm 3 môn tối đa là 30) thì cộng điểm ưu tiên theo công thức sau: Điểm ưu tiên = [(30 - Tổng điểm đạt được)/7,5] x Mức điểm ưu tiên theo khu vực, đối tượng chính sách."
+  
+  utter_cau_hoi_96:
+    - text: " - Em có thể đăng ký cùng lúc nhiều phương thức xét tuyển thuộc các đơn vị thành viên của ĐHĐN\n
+              - Sau khi có kết quả xét tuyển sớm theo các phương thức trên, nếu em đủ điều kiện trúng tuyển vào nhiều phương thức thì em phải đặt các nguyện vọng này lên hệ thống của Bộ GDĐT để được công nhận trúng tuyển chính thức sau khi lọc ảo (ưu tiên nguyện vọng yêu thích nhất là nguyện vọng 1)."
+  
+  utter_cau_hoi_97:
+    - text: " - Khi đã có kết quả đủ điều kiện trúng tuyển một nguyện vọng nhất định tại đợt xét tuyển sớm của ĐHĐN, em phải thực hiện đăng ký xét tuyển nguyện vọng đó trên hệ thống theo kế hoạch chung và hướng dẫn của Bộ Giáo dục và Đào tạo. Chỉ sau khi có kết quả trúng tuyển sau đợt lọc ảo toàn quốc, em mới được công nhận trúng tuyển chính thức và nhận được thông báo nhập học."
+
+  utter_cau_hoi_98:
+    - text: " - Việc kiểm tra trình độ tiếng Anh là để xếp lớp học Tiếng Anh theo trình độ, không ảnh hưởng đến kết quả tuyển sinh. Tuy nhiên, trình độ tiếng Anh là yêu cầu bắt buộc trong quá trình học tại trường và xét điều kiện tốt nghiệp."
+
+  utter_cau_hoi_99:
+    - text: " - "
+
+  utter_cau_hoi_100:
+    - text: " - "
 
 session_config:
   session_expiration_time: 60
