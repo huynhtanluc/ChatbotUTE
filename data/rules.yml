@@ -501,3 +501,118 @@ rules:
   steps:
   - intent: cau_hoi_100
   - action: utter_cau_hoi_100
+
+- rule: rule_cau_hoi_101
+  steps:
+  - intent: cau_hoi_101
+  - action: utter_cau_hoi_101
+
+- rule: rule_cau_hoi_102
+  steps:
+  - intent: cau_hoi_102
+  - action: utter_cau_hoi_102
+
+- rule: rule_cau_hoi_103
+  steps:
+  - intent: cau_hoi_103
+  - action: utter_cau_hoi_103
+
+- rule: rule_cau_hoi_104
+  steps:
+  - intent: cau_hoi_104
+  - action: utter_cau_hoi_104
+
+- rule: rule_cau_hoi_105
+  steps:
+  - intent: cau_hoi_105
+  - action: utter_cau_hoi_105
+
+- rule: rule_cau_hoi_106
+  steps:
+  - intent: cau_hoi_106
+  - action: utter_cau_hoi_106
+
+- rule: rule_cau_hoi_107
+  steps:
+  - intent: cau_hoi_107
+  - action: utter_cau_hoi_107
+
+- rule: rule_cau_hoi_108
+  steps:
+  - intent: cau_hoi_108
+  - action: utter_cau_hoi_108
+
+- rule: rule_cau_hoi_109
+  steps:
+  - intent: cau_hoi_109
+  - action: utter_cau_hoi_109
+
+- rule: rule_cau_hoi_110
+  steps:
+  - intent: cau_hoi_110
+  - action: utter_cau_hoi_110
+
+- rule: rule_cau_hoi_111
+  steps:
+  - intent: cau_hoi_111
+  - action: utter_cau_hoi_111
+
+- rule: rule_cau_hoi_112
+  steps:
+  - intent: cau_hoi_112
+  - action: utter_cau_hoi_112
+
+- rule: rule_cau_hoi_113
+  steps:
+  - intent: cau_hoi_113
+  - action: utter_cau_hoi_113
+
+- rule: rule_cau_hoi_114
+  steps:
+  - intent: cau_hoi_114
+  - action: utter_cau_hoi_114
+
+- rule: rule_cau_hoi_115
+  steps:
+  - intent: cau_hoi_115
+  - action: utter_cau_hoi_115
+
+- rule: rule_cau_hoi_116
+  steps:
+  - intent: cau_hoi_116
+  - action: utter_cau_hoi_116
+
+- rule: rule_cau_hoi_117
+  steps:
+  - intent: cau_hoi_117
+  - action: utter_cau_hoi_117
+
+- rule: rule_cau_hoi_118
+  steps:
+  - intent: cau_hoi_118
+  - action: utter_cau_hoi_118
+
+- rule: rule_cau_hoi_119
+  steps:
+  - intent: cau_hoi_119
+  - action: utter_cau_hoi_119
+
+- rule: rule_cau_hoi_120
+  steps:
+  - intent: cau_hoi_120
+  - action: utter_cau_hoi_120
+
+- rule: rule_cau_hoi_121
+  steps:
+  - intent: cau_hoi_121
+  - action: utter_cau_hoi_121
+
+- rule: rule_cau_hoi_122
+  steps:
+  - intent: cau_hoi_122
+  - action: utter_cau_hoi_122
+
+- rule: rule_cau_hoi_123
+  steps:
+  - intent: cau_hoi_123
+  - action: utter_cau_hoi_123

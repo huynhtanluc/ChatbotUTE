@@ -398,9 +398,79 @@ responses:
     - text: " - Việc kiểm tra trình độ tiếng Anh là để xếp lớp học Tiếng Anh theo trình độ, không ảnh hưởng đến kết quả tuyển sinh. Tuy nhiên, trình độ tiếng Anh là yêu cầu bắt buộc trong quá trình học tại trường và xét điều kiện tốt nghiệp."
 
   utter_cau_hoi_99:
-    - text: " - "
+    - text: " - Em có thể chờ nhận GK từ Sở GDĐT rồi nộp hồ sơ, vì thời gian đăng ký từ 15/4 – 15/6 mới hết hạn.\n
+              - Nếu em đăng ký xét tuyển theo phương thức tuyển sinh riêng thì em tra cứu thông tin trên trang web riêng của từng CSĐT để xem hướng dẫn cụ thể trên các thông báo liên quan."
 
   utter_cau_hoi_100:
+    - text: " - Việc nộp học phí theo tín chỉ (từ 10-30) có quy định cụ thể ở mỗi trường. Ngoài nộp học phí tín chỉ, có một số phí thêm như: bảo hiểm y tế, học tập môn GDQP, trang trải Kí túc xá ... (Tín chỉ là đơn vị dùng để đo lường khối lượng học tập. Một tín chỉ được quy định bằng 15 tiết học lý thuyết, 30 tiết thực hành, thí nghiệm hoặc thảo luận, bằng 60 giờ thực tập tại cơ sở hoặc bằng 45 giờ làm tiểu luận, bài tập lớn, đồ án hoặc khoá luận tốt nghiệp)."
+
+  utter_cau_hoi_101:
+    - text: " - "
+
+  utter_cau_hoi_102:
+    - text: " - "
+
+  utter_cau_hoi_103:
+    - text: " - "
+
+  utter_cau_hoi_104:
+    - text: " - "
+
+  utter_cau_hoi_105:
+    - text: " - "
+
+  utter_cau_hoi_106:
+    - text: " - "
+
+  utter_cau_hoi_107:
+    - text: " - "
+
+  utter_cau_hoi_108:
+    - text: " - "
+
+  utter_cau_hoi_109:
+    - text: " - "
+
+  utter_cau_hoi_110:
+    - text: " - "
+
+  utter_cau_hoi_111:
+    - text: " - "
+
+  utter_cau_hoi_112:
+    - text: " - "
+
+  utter_cau_hoi_113:
+    - text: " - "
+
+  utter_cau_hoi_114:
+    - text: " - "
+
+  utter_cau_hoi_115:
+    - text: " - "
+
+  utter_cau_hoi_116:
+    - text: " - "
+
+  utter_cau_hoi_117:
+    - text: " - "
+
+  utter_cau_hoi_118:
+    - text: " - "
+
+  utter_cau_hoi_119:
+    - text: " - "
+
+  utter_cau_hoi_120:
+    - text: " - "
+
+  utter_cau_hoi_121:
+    - text: " - "
+
+  utter_cau_hoi_122:
+    - text: " - "
+
+  utter_cau_hoi_123:
     - text: " - "
 
 session_config:

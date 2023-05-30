@@ -953,8 +953,111 @@ nlu:
 
 - intent: cau_hoi_99
   examples: | 
-    - ?
+    - Vừa rồi em có thi học sinh giỏi cấp tỉnh (lớp 12) và đạt giải nhưng hiện tại sở vẫn chưa tổ chức trao giải thưởng nên vẫn chưa nhận được giấy khen để nộp vào hồ sơ xét tuyển, em có thể bổ sung GK được không?
+    - Thời gian cuối cùng để bổ sung giấy khen học sinh giỏi vào hồ sơ xét tuyển là khi nào?
+    - Nếu em chưa nhận được giấy khen từ Sở GDĐT, liệu có cách nào khác để chứng minh thành tích học sinh giỏi trong hồ sơ xét tuyển?
+    - Ngoài giấy khen học sinh giỏi, còn có những loại giấy tờ hoặc chứng chỉ khác có thể bổ sung vào hồ sơ xét tuyển để nâng cao cơ hội trúng tuyển không?
+    - Nếu em không thể nhận được giấy khen từ Sở GDĐT trong thời gian hợp lệ, liệu có cách nào để xin giấy xác nhận tạm thời về thành tích học sinh giỏi để bổ sung vào hồ sơ xét tuyển?
+    - Nếu em đăng ký xét tuyển theo phương thức tuyển sinh riêng, có những hướng dẫn cụ thể nào em nên tra cứu để biết về quy trình bổ sung giấy khen hoặc chứng chỉ vào hồ sơ xét tuyển?
 
 - intent: cau_hoi_100
+  examples: | 
+    - Cho em hỏi nộp học phí là nộp theo tín chỉ là như thế nào ạ? Nộp tiền học phí theo tín chỉ có phải nộp thêm gì ko ạ?
+    - Tín chỉ là gì và có vai trò gì trong việc nộp học phí?
+    - Quy định về việc nộp học phí theo tín chỉ được thể hiện như thế nào?
+    - Ngoài học phí tín chỉ, còn có những khoản phí nào khác phải nộp thêm?
+    - Quy định về việc nộp phí bảo hiểm y tế, học tập môn GDQP, trang trải Kí túc xá như thế nào?
+    - Có sự khác biệt về quy định nộp học phí theo tín chỉ giữa các trường đại học không?
+    - Tín chỉ là gì?
+
+- intent: cau_hoi_101
+  examples: | 
+    - ?
+
+- intent: cau_hoi_102
+  examples: | 
+    - ?
+
+- intent: cau_hoi_103
+  examples: | 
+    - ?
+
+- intent: cau_hoi_104
+  examples: | 
+    - ?
+
+- intent: cau_hoi_105
+  examples: | 
+    - ?
+
+- intent: cau_hoi_106
+  examples: | 
+    - ?
+
+- intent: cau_hoi_107
+  examples: | 
+    - ?
+
+- intent: cau_hoi_108
+  examples: | 
+    - ?
+
+- intent: cau_hoi_109
+  examples: | 
+    - ?
+
+- intent: cau_hoi_110
+  examples: | 
+    - ?
+
+- intent: cau_hoi_111
+  examples: | 
+    - ?
+
+- intent: cau_hoi_112
+  examples: | 
+    - ?
+
+- intent: cau_hoi_113
+  examples: | 
+    - ?
+
+- intent: cau_hoi_114
+  examples: | 
+    - ?
+
+- intent: cau_hoi_115
+  examples: | 
+    - ?
+
+- intent: cau_hoi_116
+  examples: | 
+    - ?
+
+- intent: cau_hoi_117
+  examples: | 
+    - ?
+
+- intent: cau_hoi_118
+  examples: | 
+    - ?
+
+- intent: cau_hoi_119
+  examples: | 
+    - ?
+
+- intent: cau_hoi_120
+  examples: | 
+    - ?
+
+- intent: cau_hoi_121
+  examples: | 
+    - ?
+
+- intent: cau_hoi_122
+  examples: | 
+    - ?
+
+- intent: cau_hoi_123
   examples: | 
     - ?
