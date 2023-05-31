@@ -405,43 +405,44 @@ responses:
     - text: " - Việc nộp học phí theo tín chỉ (từ 10-30) có quy định cụ thể ở mỗi trường. Ngoài nộp học phí tín chỉ, có một số phí thêm như: bảo hiểm y tế, học tập môn GDQP, trang trải Kí túc xá ... (Tín chỉ là đơn vị dùng để đo lường khối lượng học tập. Một tín chỉ được quy định bằng 15 tiết học lý thuyết, 30 tiết thực hành, thí nghiệm hoặc thảo luận, bằng 60 giờ thực tập tại cơ sở hoặc bằng 45 giờ làm tiểu luận, bài tập lớn, đồ án hoặc khoá luận tốt nghiệp)."
 
   utter_cau_hoi_101:
-    - text: " - "
+    - text: " - Đối với tuyển sinh các ngành trong ĐHĐN, điểm chuẩn theo ngành, một số CSĐT có chuyên ngành thì khi thí sinh nhập học sẽ xét vào chuyên ngành sau."
 
   utter_cau_hoi_102:
-    - text: " - "
+    - text: " - Thí sinh có chứng chỉ tiếng Anh quốc tế không được quy đổi sang điểm để xét theo học bạ. Thí sinh có thể sử dụng các chứng chỉ này để ĐKXT theo phương thức tuyển sinh riêng của các CSĐT, thông tin chi tiết trên trang tuyển sinh của ĐHĐN và trang thông tin của các CSĐT."
 
   utter_cau_hoi_103:
-    - text: " - "
+    - text: " - Thí sinh chỉ có thể trúng tuyển 1 trong 2 hình thức xét tuyển. Xét tuyển học bạ Đợt 1 được tiến hành trước xét tuyển bằng kết quả thi THPT Đợt 1. Nếu thí sinh trúng tuyển xét học bạ nhưng không xác nhận nhập học trong thời gian qui định của ĐHĐN thì được xem như từ chối kết quả trúng tuyển và có quyền xét tuyển theo kết quả thi THPT. Nếu thí sinh trúng tuyển xét học bạ và xác nhận nhập học trong thời gian qui định của ĐHĐN thì thí sinh bị loại tên khỏi danh sách xét tuyển theo kết quả thi THPT trên toàn quốc."
 
   utter_cau_hoi_104:
-    - text: " - "
+    - text: " - Đối với từng ngành, các thí sinh được xét tuyển bình đẳng theo điểm xét tuyển, không phân biệt thứ tự ưu tiên của nguyện vọng đăng ký."
 
   utter_cau_hoi_105:
-    - text: " - "
+    - text: " - Thí sinh có thể nộp hồ sơ ĐKXT khi chưa có chứng nhận tốt nghiệp tạm thời; Trường sẽ thông báo nộp bổ sung minh chứng tốt nghiệp THPT vào thời điểm thích hợp."
 
   utter_cau_hoi_106:
-    - text: " - "
+    - text: " - Mỗi thí sinh chỉ được đăng ký 01 lần theo số CMND/CCCD. Thí sinh không bổ sung nguyện vọng đăng ký, không điều chỉnh nguyện vọng sau khi đã xác nhận nộp hồ sơ trên hệ thống. Vì vậy, em chỉ có thể bổ sung thêm thông tin khi chưa xác nhận nộp hồ sơ."
 
   utter_cau_hoi_107:
-    - text: " - "
+    - text: " - Điểm xét tuyển là tổng điểm các môn học/ môn thi năng khiếu theo thang điểm 10 cộng với điểm ưu tiên khu vực, ưu tiên đối tượng theo qui định của Qui chế tuyển sinh, được làm tròn đến hai chữ số thập phân. Điểm môn học trong tổ hợp xét tuyển là trung bình cộng điểm môn học lớp 10, lớp 11 và học kỳ I lớp 12. Đối với các thí sinh bằng điểm xét tuyển ở cuối danh sách thì xét trúng tuyển theo tiêu chí phụ đã quy định, nếu vẫn còn vượt chỉ tiêu thì ưu tiên cho thí sinh có nguyện vọng cao hơn"
 
   utter_cau_hoi_108:
-    - text: " - "
+    - text: " - Em có thể nộp bảng điểm thay cho học bạ nhưng phải có xác nhận của Ban giám hiệu và con dấu của nhà trường thì mới hợp lệ."
 
   utter_cau_hoi_109:
-    - text: " - "
+    - text: " - Đối với mỗi thí sinh, nếu đăng ký xét tuyển vào nhiều ngành thì việc xét tuyển được thực hiện theo thứ tự ưu tiên. Thí sinh chỉ trúng tuyển vào 01 nguyện vọng ưu tiên cao nhất trong danh sách các nguyện vọng đã đăng ký. Các nguyện vọng không đầy đủ thông tin hoặc thông tin không chính xác sẽ không được xét."
 
   utter_cau_hoi_110:
-    - text: " - "
+    - text: " - Thí sinh đăng ký bằng hình thức trực tuyến trên trang tuyển sinh của Đại học Đà Nẵng (ĐHĐN) tại địa chỉ ts.udn.vn.\n
+              - Trong trường hợp không có điều kiện đăng ký trực tuyến, Thí sinh có thể đến trực tiếp các cơ sở đào tạo (CSĐT) để thực hiện việc ĐKXT trực tiếp tại trường, tại các CSĐT sẽ có bộ phận phục vụ công tác tuyển sinh trực hỗ trợ."
 
   utter_cau_hoi_111:
-    - text: " - "
+    - text: " - Số điện thoại tuyển sinh (hot line): (0236) 3835705 – 3530103; 0914 299 195."
 
   utter_cau_hoi_112:
-    - text: " - "
+    - text: " - Địa chỉ: Số 48, đường Cao Thắng, phường Thanh Bình, quận Hải Châu, thành phố Đà Nẵng."
 
   utter_cau_hoi_113:
-    - text: " - "
+    - text: " "
 
   utter_cau_hoi_114:
     - text: " - "

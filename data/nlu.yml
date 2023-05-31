@@ -972,51 +972,99 @@ nlu:
 
 - intent: cau_hoi_101
   examples: | 
-    - ?
+    - Cho em hỏi đối với hình thức ưu tiên xét tuyển, mỗi ngành sẽ có một mức điểm chuẩn khác nhau hay sẽ có một mức điểm chuẩn chung cho tất cả các ngành trong trường?
+    - Liệu có sự khác biệt về mức điểm chuẩn giữa các ngành trong trường Đại học Đà Nẵng không?
+    - Làm thế nào để biết mức điểm chuẩn của từng ngành trong trường Đại học Đà Nẵng?
+    - Nếu em muốn xem mức điểm chuẩn của một ngành cụ thể, em cần tìm thông tin ở đâu?
+    - Mức điểm chuẩn ưu tiên xét tuyển có thể thay đổi theo từng năm không?
+    - Có những yếu tố nào khác ngoài mức điểm chuẩn mà em cần xem xét khi xét tuyển vào các ngành trong Đại học Đà Nẵng?
 
 - intent: cau_hoi_102
   examples: | 
-    - ?
+    - Thí sinh có các chứng chỉ tiếng Anh quốc tế có được quy đổi sang điểm để xét theo học bạ?
+    - Thí sinh có chứng chỉ tiếng Anh quốc tế có tác dụng gì trong quá trình xét tuyển vào trường hoặc Đại học Đà Nẵng?
+    - Có phương thức nào khác để sử dụng chứng chỉ tiếng Anh quốc tế để xét tuyển vào trường hoặc Đại học Đà Nẵng?
+    - Có sự khác biệt về quy định sử dụng chứng chỉ tiếng Anh quốc tế giữa các CSĐT trong trường hoặc Đại học Đà Nẵng không?
+    - Nếu thí sinh có chứng chỉ tiếng Anh quốc tế, liệu có cần thiết phải thi thêm bài kiểm tra tiếng Anh đầu vào không?
 
 - intent: cau_hoi_103
   examples: | 
-    - ?
+    - Nếu 1 thí sinh vừa ĐKXT bằng học bạ vừa ĐKXT bằng kết quả thi THPT thì có trúng tuyển cả không?
+    - Nếu thí sinh trúng tuyển cả bằng học bạ và kết quả thi THPT, thì thí sinh sẽ chọn hình thức nào để nhập học?
+    - Nếu thí sinh trúng tuyển bằng học bạ và không xác nhận nhập học, có thể xét tuyển lại bằng kết quả thi THPT không?
+    - Nếu thí sinh trúng tuyển bằng học bạ và xác nhận nhập học, liệu có cần thi lại kết quả thi THPT không?
+    - Nếu thí sinh trúng tuyển bằng kết quả thi THPT và không trúng tuyển bằng học bạ, có thể đăng ký xét tuyển lại bằng học bạ được không?
 
 - intent: cau_hoi_104
   examples: | 
-    - ?
+    - Việc xét tuyển vào từng ngành có phụ thuộc vào thứ tự ưu tiên của thí sinh khi ĐKXT?
+    - Thứ tự ưu tiên của nguyện vọng đăng ký ảnh hưởng đến việc xét tuyển vào từng ngành trong ĐHĐN không?
+    - Nếu thí sinh có nhiều nguyện vọng đăng ký và xét tuyển bằng điểm, thì thứ tự ưu tiên của nguyện vọng có ảnh hưởng đến kết quả xét tuyển không?
+    - Nếu thí sinh đăng ký nhiều nguyện vọng và xét tuyển bằng điểm, liệu việc xếp nguyện vọng vào các ngành có sự ưu tiên nào không?
 
 - intent: cau_hoi_105
   examples: | 
-    - ?
+    - Thí sinh chưa có bằng tốt nghiệp THPT có thể nộp hồ sơ đăng ký xét tuyển theo hình thức xét học bạ được không ạ?
+    - Thí sinh chưa tốt nghiệp THPT có thể nộp hồ sơ xét tuyển theo hình thức xét học bạ được không?
+    - Khi thí sinh chưa có bằng tốt nghiệp THPT, liệu có cần cung cấp các giấy tờ hay chứng chỉ khác để nộp hồ sơ xét tuyển theo hình thức xét học bạ?
+    - Khi chưa có bằng tốt nghiệp THPT, thí sinh cần làm gì để bổ sung minh chứng tốt nghiệp sau khi nộp hồ sơ xét tuyển theo hình thức xét học bạ?
+
 
 - intent: cau_hoi_106
   examples: | 
-    - ?
+    - Khi đăng ký trực tuyến, nếu thí sinh chưa đăng ký hết 5 nguyện vọng, muốn đăng ký bổ sung các nguyện vọng còn lại được không?
+    - Nếu thí sinh chưa đăng ký hết 5 nguyện vọng trong quá trình đăng ký trực tuyến, có thể bổ sung các nguyện vọng còn lại sau này không?
+    - Thí sinh có thể điều chỉnh danh sách nguyện vọng đăng ký sau khi đã xác nhận nộp hồ sơ trực tuyến không?
+    - Khi đã xác nhận nộp hồ sơ trực tuyến, thí sinh có thể bổ sung thêm thông tin hoặc chỉnh sửa nguyện vọng không?
+    - Có thể điều chỉnh nguyện vọng sau khi nộp hồ sơ được không?
+    - Có thể đăng kí thêm nguyện vọng sau khi nộp hồ sơ không?
 
 - intent: cau_hoi_107
   examples: | 
-    - ?
+    - Em muốn hỏi cách tính điểm xét tuyển khi đăng ký xét theo học bạ THPT?
+    - Làm thế nào để tính điểm môn học trong tổ hợp xét tuyển từ điểm môn học ở các lớp và học kỳ khác nhau?
+    - Nguyện vọng của thí sinh có ảnh hưởng đến việc xét trúng tuyển hay không?
+    - Tiêu chí phụ được áp dụng như thế nào trong trường hợp thí sinh bằng điểm xét tuyển ở cuối danh sách?
 
 - intent: cau_hoi_108
   examples: | 
-    - ?
+    - Khi nộp hồ sơ xét học bạ, nhưng vì chưa có học bạ em có thể nộp bảng điểm thay thế được không?
+    - Quy trình xác nhận và con dấu của Ban giám hiệu và nhà trường như thế nào để đảm bảo tính hợp lệ của bảng điểm thay thế?
+    - Có yêu cầu đặc biệt nào khác khi nộp bảng điểm thay thế không? Ví dụ: cần có các bản sao chứng thực hay không?
+    - Nếu không có học bạ hoặc bảng điểm, có cách nào khác để xác minh điểm số và thành tích học tập của thí sinh không?
 
 - intent: cau_hoi_109
   examples: | 
-    - ?
+    - Theo thông báo tuyển sinh, thí sinh có thể đăng ký nhiều nguyện vọng (NV) ở các trường khác nhau, vậy mỗi trường em đăng ký tối đa 5 NV vào ĐH Sư Phạm Kỹ Thuật, 5 NV vào ĐH Kinh tế … được không ạ ??
+    - Nếu em đăng ký quá 5 nguyện vọng, các nguyện vọng thứ 6 trở đi sẽ không được xét tuyển hay sẽ bị loại khỏi quy trình xét tuyển?
+    - Thứ tự ưu tiên của các nguyện vọng được xác định như thế nào? Dựa trên điểm số, ngành học hay yếu tố khác?
+    - Nếu em trúng tuyển vào nguyện vọng ưu tiên cao nhất và từ chối kết quả đó, em có thể được xem xét vào các nguyện vọng khác không? 
+    - Nếu em không trúng tuyển vào nguyện vọng ưu tiên cao nhất, liệu em có cơ hội trúng tuyển vào các nguyện vọng khác trong danh sách không?
+    - Nếu em trúng tuyển vào nguyện vọng ưu tiên thứ hai hoặc các nguyện vọng dưới đó, em có thể từ chối kết quả và xem xét vào nguyện vọng ưu tiên cao hơn không?
+    - Nếu em trúng tuyển vào nguyện vọng ưu tiên cao nhất và xác nhận nhập học, nhưng sau đó em muốn thay đổi nguyện vọng, liệu em có thể thực hiện thay đổi đó không?
 
 - intent: cau_hoi_110
   examples: | 
-    - ?
+    - Em muốn nộp hồ sơ ĐKXT theo học bạ, cách thức nộp hồ sơ như thế nào? Em có thể nộp trực tiếp được không ạ?
+    - Làm thế nào để đăng ký trực tuyến cho việc nộp hồ sơ ĐKXT theo học bạ?
+    - Trang tuyển sinh của ĐHĐN có địa chỉ gì để thực hiện đăng ký trực tuyến?
+    - Nếu không thể đăng ký trực tuyến, thì tôi phải làm gì để nộp hồ sơ ĐKXT theo học bạ?
+    - Có cần chuẩn bị những giấy tờ gì khi đến trực tiếp trường để nộp hồ sơ ĐKXT theo học bạ?
 
 - intent: cau_hoi_111
   examples: | 
-    - ?
+    - Số điện thoại của trường là số mấy?
+    - Số điện thoại của trường?
+    - Số điện thoại?
+    - Liên hệ qua trường bằng số điện thoại được không?
+    - Em muốn gọi cho trường thì số trường là số mấy?
 
 - intent: cau_hoi_112
   examples: | 
-    - ?
+    - Địa chỉ trường nằm ở đâu?
+    - Cho em hỏi trường nằm ở đâu?
+    - Trường nằm ở đâu?
+    - Địa chỉ cụ thể?
 
 - intent: cau_hoi_113
   examples: | 
