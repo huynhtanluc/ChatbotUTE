@@ -785,6 +785,11 @@ nlu:
 - intent: cau_hoi_80
   examples: | 
     - Chi phí của ký túc xá bao nhiêu?
+    - Giá cả của lý túc xá như thế nào?
+    - Chi phí ký túc xá như thế nào?
+    - Ký túc xá?
+    - Ở ký túc xá?
+    - Ở ký túc xá tiền như thế nào?
     - Giá tiền cho một phòng ký túc xá là bao nhiêu không?
     - Em muốn tìm hiểu về chi phí để ở trong ký túc xá, trường có thông tin gì không?
     - Cho em biết giá cả của ký túc xá là bao nhiêu?
