@@ -442,10 +442,10 @@ responses:
     - text: " - Địa chỉ: Số 48, đường Cao Thắng, phường Thanh Bình, quận Hải Châu, thành phố Đà Nẵng."
 
   utter_cau_hoi_113:
-    - text: " "
+    - text: " - Khoảng 7-8 triệu một học kì, tùy thuộc vào số lượng tín chỉ đăng ký"
 
   utter_cau_hoi_114:
-    - text: " - "
+    - text: " - Cảm ơn bạn, chúng tôi luôn sẵn sàng hỗ trợ bạn!"
 
   utter_cau_hoi_115:
     - text: " - "

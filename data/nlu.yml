@@ -842,6 +842,7 @@ nlu:
 - intent: cau_hoi_86
   examples: | 
     - Đang là sinh viên của trường khác nhưng giờ muốn chuyển sang học tại trường đại học Sư Phạm Kỹ Thuật - Đà Nẵng có được không?
+    - Là sinh viên trường khác nhưng giờ mình muốn chuyển sang trường mình thì có được không ạ?
     - Quy trình chuyển trường như thế nào khi muốn học tại Đại học Sư phạm Kỹ thuật Đà Nẵng?
     - Có yêu cầu gì đặc biệt khi muốn chuyển sang học tại trường Đại học Sư phạm Kỹ thuật Đà Nẵng không?
     - Làm thế nào để biết thông tin về chuyển trường sang học tại Đại học Sư phạm Kỹ thuật Đà Nẵng?
@@ -932,7 +933,7 @@ nlu:
 - intent: cau_hoi_96
   examples: | 
     - Em muốn hỏi khi đăng ký xét tuyển vào ĐHĐN, em có được đăng ký cùng lúc nhiều phương thức xét tuyển hay không, nếu các phương thức xét tuyển đều có nguyện vọng được trúng tuyển thì em phải thực hiện đăng ký nguyện vọng như thế nào trên hệ thống của Bộ GDĐT để được công nhận trúng tuyển chính thức?
-    - Em có thể đăng ký cùng lúc nhiều phương thức xét tuyển vào Đại học Đà Nẵng không?
+    - Em có thể đăng ký cùng lúc nhiều phương thức xét tuyển vào Đại học Đà Nẵng không? 
 
 - intent: cau_hoi_97
   examples: | 
@@ -1068,11 +1069,23 @@ nlu:
 
 - intent: cau_hoi_113
   examples: | 
-    - ?
+    - Học phí?
+    - Học phí trường mình báo nhiêu một kì?
+    - Học phí trường mình bao nhiêu một năm?
+    - Học phí như thế nào?
+    - Trường thu một kỳ bao nhiêu?
+    - Một năm học phí trường bao nhiêu?
+    - Học phí ngành?
 
 - intent: cau_hoi_114
   examples: | 
-    - ?
+    - Cảm ơn
+    - Cảm ơn nhiều ạ
+    - Cảm ơn trường nhiều
+    - Mình cảm ơn
+    - Em cảm ơn
+    - Xin cảm ơn
+    - cảm ơn nhiều
 
 - intent: cau_hoi_115
   examples: | 
